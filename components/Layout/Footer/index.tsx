@@ -9,20 +9,7 @@ import FooterForm from '@components/FooterForm'
 import { Facebook, Linkedin, Mail, Phone, Pin, Twitter } from 'lucide-react'
 
 export const Footer: FC = () => {
-  const OTHER = [
-    {
-      href: '/basvuru',
-      name: 'Yetkili Başvurusu',
-    },
-    {
-      href: '/discord',
-      name: 'Tester Ol',
-    },
-    {
-      href: 'https://blog.slipyme.com',
-      name: 'Slipyme Blog',
-    },
-  ]
+
 
   return (
     <>
@@ -87,7 +74,7 @@ export const Footer: FC = () => {
         </div>
       </div>
 
-      <footer className="footer">
+      <footer >
         {/* <div className="waves">
           <div className="wave" id="wave1" />
           <div className="wave" id="wave2" />
