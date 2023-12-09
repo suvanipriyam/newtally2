@@ -245,7 +245,7 @@ function UncontrolledExample() {
                 <span className="btn-text">Learn More</span>
               </a>
               <a
-                className="btn btn-2 btn-border"
+                className="btn btn-2"
                 href="Contact-Authorized-Tally-Solution-Unit.php"
                 style={{
                   height: '80px',
@@ -256,7 +256,7 @@ function UncontrolledExample() {
                 }}
               >
                 {' '}
-                <span className="btn-icon" />
+                <span className="btn-icon btn-arrow" />
                 <span className="btn-text">Contact Us</span>
               </a>
             </div>
@@ -296,21 +296,6 @@ function UncontrolledExample() {
             <div className="" style={{ display: 'flex', marginTop: '20px' }}>
               <a
                 className="btn btn-2"
-                href="Custom-Built-Solutions-In-Tally-ERP9.php"
-                style={{
-                  height: '80px',
-                  justifyContent: 'center',
-                  alignItems: 'center',
-                  display: 'flex',
-                  width: '190px',
-                }}
-              >
-                {' '}
-                <span className="btn-icon" />
-                <span className="btn-text">Learn More</span>
-              </a>
-              <a
-                className="btn btn-2 btn-border"
                 href="Contact-Authorized-Tally-Solution-Unit.php"
                 style={{
                   height: '80px',

@@ -117,7 +117,7 @@ export const Navbar: FC = () => {
 
   return (
     <nav id="site-header" className=" p-4 fixed w-full top-0 custom-navbar">
-      <div className="header-top ">
+      <div className="header-top bg-yellow-600">
         <div className="container-fluid">
           <div className="row">
             <div className="col-md-2 justify-content-between">
@@ -127,7 +127,7 @@ export const Navbar: FC = () => {
               >
                 <CustomImage
                   style={{ height: 116, width: 116 }}
-                  src={'/images/banner/logo.gif'}
+                  src={'images/banner/logo.gif'}
                   className="mr-3 h-6 sm:h-9 rounded-md"
                   alt="Navbar Logo"
                 />
@@ -1050,7 +1050,7 @@ export const Navbar: FC = () => {
                                     className="btn me-1 me-sm-3"
                                     href="/buyoffline"
                                   >
-                                    <ShoppingCart />
+                                    <i className="flaticon-shopping-cart" />
                                     <span>Buy Tally</span>
                                   </a>
                                 </div>
