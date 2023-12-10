@@ -1,11 +1,11 @@
 {
-  "name": "www.slipyme.com",
+  "name": "www.tallysolutions.com",
   "version": "5.1.0",
-  "description": "My personal webpage source :>",
+  "description": "Tally ERP-9 multi user is the most widely used accounting software in India and globe. it has all features which are required by any industry.",
   "author": {
     "email": "gunaydinberkant13@gmail.com",
-    "name": "Berkant GÜNAYDIN",
-    "url": "https://www.slipyme.com"
+    "name": "Tally ERP-9 Multi User | Tally Multi User Delhi &amp; Tally erp-9 Gold Edition.",
+    "url": "https://www.tallysolutions.com"
   },
   "license": "GPL-3.0",
   "private": true,

@@ -51,9 +51,6 @@ const Hero = () => {
       id="home"
       style={{
         backgroundImage: 'url("/images/giphy4.gif")',
-        // background: 'linear-gradient(45deg, #fffae3, #ffd700)',
-        // background:
-          // 'linear-gradient(45deg, rgba(255, 250, 227, 0.5), rgba(255, 215, 0, 0.5))',
         backgroundSize: '100% 100%',
         backgroundRepeat: 'no-repeat',
         // backgroundSize: 'cover',

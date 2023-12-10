@@ -282,7 +282,7 @@ const corpmanangement = () => {
                                 height={25}
                                 align="left"
                                 valign="middle"
-                                bgcolor="#FFFFFF"
+                                id='bg'
                                 scope="row"
                               >
                                 Corporate Management{' '}
@@ -294,7 +294,7 @@ const corpmanangement = () => {
                                 height={25}
                                 align="left"
                                 valign="middle"
-                                bgcolor="#FFFFFF"
+                                id='bg'
                                 scope="row"
                               >
                                 Management Consultancy Services
@@ -306,7 +306,7 @@ const corpmanangement = () => {
                                 height={25}
                                 align="left"
                                 valign="middle"
-                                bgcolor="#FFFFFF"
+                                id='bg'
                                 scope="row"
                               >
                                 {' '}
@@ -319,7 +319,7 @@ const corpmanangement = () => {
                                 height={25}
                                 align="left"
                                 valign="middle"
-                                bgcolor="#FFFFFF"
+                                id='bg'
                                 scope="row"
                               >
                                 Our Franchise Services
@@ -331,7 +331,7 @@ const corpmanangement = () => {
                                 height={25}
                                 align="left"
                                 valign="middle"
-                                bgcolor="#FFFFFF"
+                                id='bg'
                                 scope="row"
                               >
                                 {' '}

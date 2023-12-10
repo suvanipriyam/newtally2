@@ -10,39 +10,7 @@ import Marquee from "react-fast-marquee";
 import { Link } from "@components/Utils/Link";
 
 export const Services: FC = () => {
-  const Service = [
-    {
-      name: "Web Tabanlı Sistemler",
-      text: "İstediğiniz bir websitesini tasarlar ve kodlarız ayrıca web tabanlı oyunlar, uygulamalar ve programlar kodlamaktayız.",
-      icon: AiOutlineGlobal,
-    },
-    {
-      name: "Gömülü Sistemler",
-      text: "Platformu fark etmeksizin her türlü masaüstü ve mobil uygulama geliştirmekteyiz.",
-      icon: FaLaptopCode,
-    },
-    {
-      name: "Discord Uygulamaları",
-      text: "Discord için uygulama ve botlar geliştirmekteyiz.",
-      icon: FaDiscord,
-    },
-    {
-      name: "Photoshop Hizmeti",
-      text: "İstediğiniz fotoğrafları veya tasarımları istediğiniz şekillerde düzenleyebiliriz.",
-      icon: SiAdobephotoshop,
-    },
-    {
-      name: "Tasarım Hizmeti",
-      text: "İstediğiniz bir logoyu, banneri, veya herhangi bir tasarımı sizin için tasarlayabiliriz.",
-      icon: SiAdobeillustrator,
-    },
-    {
-      name: "After Effects Hizmeti",
-      text: "İstediğiniz bir gifi tasarlayabiliriz veya istediğiniz bir videoya efekt eklemesi ve düzenlemesi yapabiliriz.",
-      icon: SiAdobeaftereffects,
-    },
-  ];
-
+ 
   return (
     <div className="page-content">
       <Marquee className="theme-bg marqueeData">

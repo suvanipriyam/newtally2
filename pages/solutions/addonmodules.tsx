@@ -269,7 +269,7 @@ const addonmodules = () => {
                                   height={25}
                                   align="left"
                                   valign="middle"
-                                  bgcolor="#FFFFFF"
+                                  id='bg'
                                   scope="row"
                                 >
                                   Garment Industry Module
@@ -299,7 +299,7 @@ const addonmodules = () => {
                                   height={25}
                                   align="left"
                                   valign="middle"
-                                  bgcolor="#FFFFFF"
+                                  id='bg'
                                   scope="row"
                                 >
                                   Vehicle Sales Module
@@ -328,8 +328,8 @@ const addonmodules = () => {
                                   height={25}
                                   align="left"
                                   valign="middle"
-                                  bgcolor="#FFFFFF"
-                                  scope="row"
+                                  
+                                  scope="row" id='bg'
                                 >
                                   Party Wise Outstanding Module{' '}
                                 </td>
@@ -526,7 +526,7 @@ const addonmodules = () => {
                                   height={25}
                                   align="left"
                                   valign="middle"
-                                  bgcolor="#FFFFFF"
+                                  id='bg'
                                   scope="row"
                                 >
                                   1 Click Instrument Detail Module{' '}

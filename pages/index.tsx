@@ -10,7 +10,7 @@ import {Useful} from "@components/Index/Useful";
 import {Form} from "@components/Index/Form";
 const HomePage: NextPage = () => {
   return (
-    <Layout title="Anasayfa" >
+    <Layout title="TALLY SOLUTIONS UNIT" >
       <Hero />
 
       {/* <About /> */}

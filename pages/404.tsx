@@ -15,14 +15,9 @@ const ErrorPage: NextPage = () => {
               404
             </h1>
             <p className="mb-4 text-3xl font-bold text-gray-900 md:text-4xl">
-              Sayfa Bulunamadı
+            TALLY SOLUTIONS UNIT
             </p>
-            <p className="mb-4 text-lg font-semibold text-gray-500">
-              Aradığınız sayfa silinmiş, taşınmış yada hiç açılmamış olabilir.
-            </p>
-            <Button type="primary" onClick={() => router.push("/")}>
-              Anasayfaya Dön
-            </Button>
+           
           </div>
         </div>
       </section>

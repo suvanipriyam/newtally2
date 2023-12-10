@@ -306,7 +306,7 @@ const verticalsolutions = () => {
                                   height={25}
                                   align="left"
                                   valign="middle"
-                                  bgcolor="#FFFFFF"
+                                  id='bg'
                                   scope="row"
                                 >
                                   Tally ERP - 9 Platinum Module
@@ -336,7 +336,7 @@ const verticalsolutions = () => {
                                   height={25}
                                   align="left"
                                   valign="middle"
-                                  bgcolor="#FFFFFF"
+                                  id='bg'
                                   scope="row"
                                 >
                                   Jewellery Industry
@@ -367,7 +367,7 @@ const verticalsolutions = () => {
                                   height={25}
                                   align="left"
                                   valign="middle"
-                                  bgcolor="#FFFFFF"
+                                  id='bg'
                                   scope="row"
                                 >
                                   Manufacturing Industry
@@ -396,7 +396,7 @@ const verticalsolutions = () => {
                                   height={25}
                                   align="left"
                                   valign="middle"
-                                  bgcolor="#FFFFFF"
+                                  id='bg'
                                   scope="row"
                                 >
                                   Electronic Showroom Management
@@ -425,7 +425,7 @@ const verticalsolutions = () => {
                                   height={25}
                                   align="left"
                                   valign="middle"
-                                  bgcolor="#FFFFFF"
+                                  id='bg'
                                   scope="row"
                                 >
                                   Hotel &amp; Restaurant
